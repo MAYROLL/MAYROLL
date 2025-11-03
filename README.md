@@ -357,7 +357,7 @@ transition: all 0.4s ease; z-index: 999; }
 Setiap varian kami dibuat dengan bahan terbaik, kulit yang renyah, dan isian yang penuh karakter - dari mayonais creamy, ayam pedas daun jeruk, sampai bolognese gurih yang bikin jatuh cinta di gigitan pertama.
 Buat kami, makanan bukan cuma soal kenyang, tapi soal mood.
 ONE BITE - FULL DELIGHT. Karena dari satu gigitan aja, kamu udah bisa ngerasain kebahagiaan versi MAYROLL.</p>
-</section>
+
 
 <section id="kontak">
   <h2>Kontak Kami</h2>
@@ -365,7 +365,7 @@ ONE BITE - FULL DELIGHT. Karena dari satu gigitan aja, kamu udah bisa ngerasain 
   <p><img src="instagram.png" alt="Logo Instagram" style="width:20px; vertical-align:middle; margin-right:5px;">
   <a href="https://www.instagram.com/mayroll_official?igsh=MTl1YXJoMnBlbm43cg==" target="_blank">Instagram</a> |<img src="tiktok.png" alt="Logo Instagram" style="width:20px; vertical-align:middle; margin-right:5px;">  
   <a href="https://vm.tiktok.com/ZSHc6nAVaNCer-BUdVe/" target="_blank">TikTok</a></p>
-</section>
+
 
 <footer>
   <p>© 2025 MAYROLL. All Rights Reserved.</p>
