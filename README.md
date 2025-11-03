@@ -323,7 +323,7 @@ transition: all 0.4s ease; z-index: 999; }
 <section id="produk">
   <h2>Produk Kami</h2>
   <div class="produk-container" id="produk-container"></div>
-</section>
+
 
 <div class="cart-popup" id="cart-popup">
   <h3>Keranjang</h3>
@@ -563,8 +563,4 @@ function closeAdmin() {
 }
 
 renderProduk();
-</script>
 
-
-</body>
-</html>
